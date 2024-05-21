@@ -1,0 +1,1 @@
+Open the index.html file, click anywhere on the screen and start playing
